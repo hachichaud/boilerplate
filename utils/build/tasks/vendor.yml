@@ -6,6 +6,7 @@ src:
 - bower_components/angular-translate/angular-translate.js
 - bower_components/angular-strap/dist/angular-strap.js
 - bower_components/angular-strap/dist/angular-strap.tpl.js
+- bower_components/satellizer/satellizer.js
 
 dest: www/js/
 

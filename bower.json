@@ -10,7 +10,8 @@
     "font-awesome": "*",
     "lodash": "*",
     "momentjs": "*",
-    "foundation": "*"
+    "foundation": "*",
+    "satellizer": "~0.6.0"
   },
   "devDependencies": {
     "angular-mocks": "*"

@@ -1,0 +1,6 @@
+h1 HI ! ;)
+pre isAuthenticated: {{login.isAuthenticated()}}
+
+button(ng-click="login.authenticate('google')") Sign in with Google
+button(ng-click="login.authenticate('stackexchange')") Sign in with stackexchange
+button(ng-click="login.getProfile()") getProfile()
