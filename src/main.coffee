@@ -1,7 +1,7 @@
 'use strict'
 
 angular.module 'boilerplate', [
+  'common'
   'boilerplate.templates'
-  'boilerplate.utils'
   'boilerplate.landing'
 ]
